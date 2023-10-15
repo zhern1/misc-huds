@@ -21,7 +21,7 @@
 		
 		if_match
 		{
-			"xpos"			"39"
+			"xpos"			"46"
 			"ypos"			"12"
 		}
 		
@@ -57,7 +57,7 @@
 		
 		if_match
 		{
-			"xpos"			"74"
+			"xpos"			"68"
 			"ypos"			"12"
 		}
 		
